@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >
+<suite name="HybridFrameworkSuite" parallel="none">
+    <test name="LoginTests">
+        <classes>
+            <class name="com.applicationName.modulename.test.LoginTest"/>
+        </classes>
+    </test>
+</suite>

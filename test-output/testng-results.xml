@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-08-19T22:41:47 IST" name="Default suite" finished-at="2025-08-19T22:42:21 IST" duration-ms="33802">
+    <groups>
+    </groups>
+    <test started-at="2025-08-19T22:41:47 IST" name="Default test" finished-at="2025-08-19T22:42:21 IST" duration-ms="33802">
+      <class name="com.applicationName.modulename.test.TablePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.applicationName.modulename.test.TablePageTest@185a6e9]" started-at="2025-08-19T22:41:47 IST" name="setUp" finished-at="2025-08-19T22:41:56 IST" duration-ms="8895" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TablePage_E2E_Test()[pri:0, instance:com.applicationName.modulename.test.TablePageTest@185a6e9]" started-at="2025-08-19T22:41:56 IST" name="TablePage_E2E_Test" finished-at="2025-08-19T22:42:20 IST" duration-ms="24071" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TablePage_E2E_Test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.applicationName.modulename.test.TablePageTest@185a6e9]" started-at="2025-08-19T22:42:20 IST" name="tearDown" finished-at="2025-08-19T22:42:21 IST" duration-ms="738" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.applicationName.modulename.test.TablePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
