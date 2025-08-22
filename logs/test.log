@@ -1,0 +1,215 @@
+2025-08-21 23:39:30 INFO  LoginPage:43 - Clicking on SSO No Button
+2025-08-21 23:39:30 INFO  LoginPage:46 - Entering UserName
+2025-08-21 23:39:30 INFO  LoginPage:49 - Entering Password
+2025-08-21 23:39:30 INFO  LoginPage:52 - Clicking on login button
+2025-08-21 23:39:31 INFO  LoginPage:55 - Getting security code from Gmail
+2025-08-21 23:39:41 INFO  LoginPage:27 - Clicking on project:Simple Project Manager (Updesh Jain)
+2025-08-21 23:39:47 INFO  LoginPage:38 - clicking on app Settings link from left pane
+2025-08-21 23:39:50 INFO  LoginPage:44 - Clicking on Tables page link on App settings page
+2025-08-21 23:39:53 INFO  LoginPage:86 - Clicking on new table button
+2025-08-21 23:39:56 INFO  LoginPage:92 - Clicking create from scratch menu option
+2025-08-21 23:39:56 INFO  LoginPage:95 - Enter table name and comment on new table dialog
+2025-08-21 23:39:57 INFO  LoginPage:99 - Clicking on create button on new table dialog
+2025-08-21 23:39:57 INFO  LoginPage:102 - wait for field dialog to come up
+2025-08-21 23:40:04 INFO  LoginPage:105 - add lables
+2025-08-21 23:40:05 INFO  LoginPage:110 - click on add fields button on add field dialog
+2025-08-21 23:40:07 INFO  LoginPage:38 - clicking on app Settings link from left pane
+2025-08-21 23:40:08 INFO  LoginPage:44 - Clicking on Tables page link on App settings page
+2025-08-21 23:50:31 INFO  LoginPage:43 - Clicking on SSO No Button
+2025-08-21 23:50:31 INFO  LoginPage:46 - Entering UserName
+2025-08-21 23:50:31 INFO  LoginPage:49 - Entering Password
+2025-08-21 23:50:31 INFO  LoginPage:52 - Clicking on login button
+2025-08-21 23:50:33 INFO  LoginPage:55 - Getting security code from Gmail
+2025-08-21 23:50:43 INFO  LoginPage:27 - Clicking on project:Simple Project Manager (Updesh Jain)
+2025-08-21 23:50:55 INFO  LoginPage:38 - clicking on app Settings link from left pane
+2025-08-21 23:51:00 INFO  LoginPage:44 - Clicking on Tables page link on App settings page
+2025-08-21 23:51:02 INFO  LoginPage:86 - Clicking on new table button
+2025-08-21 23:51:06 INFO  LoginPage:92 - Clicking create from scratch menu option
+2025-08-21 23:51:06 INFO  LoginPage:95 - Enter table name and comment on new table dialog
+2025-08-21 23:51:07 INFO  LoginPage:99 - Clicking on create button on new table dialog
+2025-08-21 23:51:07 INFO  LoginPage:102 - wait for field dialog to come up
+2025-08-21 23:51:11 INFO  LoginPage:105 - add lables
+2025-08-21 23:51:12 INFO  LoginPage:110 - click on add fields button on add field dialog
+2025-08-21 23:51:14 INFO  LoginPage:38 - clicking on app Settings link from left pane
+2025-08-21 23:51:15 INFO  LoginPage:44 - Clicking on Tables page link on App settings page
+2025-08-21 23:53:41 INFO  LoginPage:43 - Clicking on SSO No Button
+2025-08-21 23:53:41 INFO  LoginPage:46 - Entering UserName
+2025-08-21 23:53:41 INFO  LoginPage:49 - Entering Password
+2025-08-21 23:53:41 INFO  LoginPage:52 - Clicking on login button
+2025-08-21 23:53:42 INFO  LoginPage:55 - Getting security code from Gmail
+2025-08-21 23:53:52 INFO  LoginPage:27 - Clicking on project:Simple Project Manager (Updesh Jain)
+2025-08-21 23:54:02 INFO  LoginPage:38 - clicking on app Settings link from left pane
+2025-08-21 23:54:06 INFO  LoginPage:44 - Clicking on Tables page link on App settings page
+2025-08-21 23:54:09 INFO  LoginPage:86 - Clicking on new table button
+2025-08-21 23:54:12 INFO  LoginPage:92 - Clicking create from scratch menu option
+2025-08-21 23:54:12 INFO  LoginPage:95 - Enter table name and comment on new table dialog
+2025-08-21 23:54:13 INFO  LoginPage:99 - Clicking on create button on new table dialog
+2025-08-21 23:54:13 INFO  LoginPage:102 - wait for field dialog to come up
+2025-08-21 23:54:16 INFO  LoginPage:105 - add lables
+2025-08-21 23:54:17 INFO  LoginPage:110 - click on add fields button on add field dialog
+2025-08-21 23:54:19 INFO  LoginPage:38 - clicking on app Settings link from left pane
+2025-08-21 23:54:20 INFO  LoginPage:44 - Clicking on Tables page link on App settings page
+2025-08-22 00:17:58 INFO  LoginPage:43 - Clicking on SSO No Button
+2025-08-22 00:17:58 INFO  LoginPage:46 - Entering UserName
+2025-08-22 00:17:58 INFO  LoginPage:49 - Entering Password
+2025-08-22 00:17:58 INFO  LoginPage:52 - Clicking on login button
+2025-08-22 00:17:59 INFO  LoginPage:55 - Getting security code from Gmail
+2025-08-22 00:18:09 INFO  LoginPage:27 - Clicking on project:Simple Project Manager (Updesh Jain)
+2025-08-22 00:41:53 INFO  LoginPage:43 - Clicking on SSO No Button
+2025-08-22 12:24:47 INFO  LoginPage:43 - Clicking on SSO No Button
+2025-08-22 12:24:48 INFO  LoginPage:46 - Entering UserName
+2025-08-22 12:24:48 INFO  LoginPage:49 - Entering Password
+2025-08-22 12:24:48 INFO  LoginPage:52 - Clicking on login button
+2025-08-22 12:24:49 INFO  LoginPage:55 - Getting security code from Gmail
+2025-08-22 12:24:59 INFO  LoginPage:27 - Clicking on project:Simple Project Manager (Updesh Jain)
+2025-08-22 12:25:10 INFO  LoginPage:38 - clicking on app Settings link from left pane
+2025-08-22 12:25:13 INFO  LoginPage:44 - Clicking on Tables page link on App settings page
+2025-08-22 12:25:15 INFO  LoginPage:120 - Clicking on new table button
+2025-08-22 12:25:17 INFO  LoginPage:126 - Clicking create from scratch menu option
+2025-08-22 12:25:18 INFO  LoginPage:129 - Enter table name and comment on new table dialog
+2025-08-22 12:25:19 INFO  LoginPage:133 - Clicking on create button on new table dialog
+2025-08-22 12:25:19 INFO  LoginPage:136 - wait for field dialog to come up
+2025-08-22 12:25:22 INFO  LoginPage:139 - add lables
+2025-08-22 12:29:50 INFO  LoginPage:43 - Clicking on SSO No Button
+2025-08-22 12:29:50 INFO  LoginPage:46 - Entering UserName
+2025-08-22 12:29:50 INFO  LoginPage:49 - Entering Password
+2025-08-22 12:29:50 INFO  LoginPage:52 - Clicking on login button
+2025-08-22 12:29:51 INFO  LoginPage:55 - Getting security code from Gmail
+2025-08-22 12:30:01 INFO  LoginPage:27 - Clicking on project:Simple Project Manager (Updesh Jain)
+2025-08-22 12:30:10 INFO  LoginPage:38 - clicking on app Settings link from left pane
+2025-08-22 12:30:13 INFO  LoginPage:44 - Clicking on Tables page link on App settings page
+2025-08-22 12:30:15 INFO  LoginPage:120 - Clicking on new table button
+2025-08-22 12:30:18 INFO  LoginPage:126 - Clicking create from scratch menu option
+2025-08-22 12:30:19 INFO  LoginPage:129 - Enter table name and comment on new table dialog
+2025-08-22 12:30:19 INFO  LoginPage:133 - Clicking on create button on new table dialog
+2025-08-22 12:30:20 INFO  LoginPage:136 - wait for field dialog to come up
+2025-08-22 12:30:24 INFO  LoginPage:139 - add lables
+2025-08-22 12:30:24 INFO  LoginPage:144 - click on add fields button on add field dialog
+2025-08-22 12:30:26 INFO  LoginPage:38 - clicking on app Settings link from left pane
+2025-08-22 12:30:29 INFO  LoginPage:44 - Clicking on Tables page link on App settings page
+2025-08-22 12:34:41 INFO  LoginPage:43 - Clicking on SSO No Button
+2025-08-22 12:34:41 INFO  LoginPage:46 - Entering UserName
+2025-08-22 12:34:42 INFO  LoginPage:49 - Entering Password
+2025-08-22 12:34:42 INFO  LoginPage:52 - Clicking on login button
+2025-08-22 12:34:43 INFO  LoginPage:55 - Getting security code from Gmail
+2025-08-22 12:34:53 INFO  LoginPage:27 - Clicking on project:Simple Project Manager (Updesh Jain)
+2025-08-22 12:35:03 INFO  LoginPage:38 - clicking on app Settings link from left pane
+2025-08-22 12:35:05 INFO  LoginPage:44 - Clicking on Tables page link on App settings page
+2025-08-22 12:35:08 INFO  LoginPage:120 - Clicking on new table button
+2025-08-22 12:35:11 INFO  LoginPage:126 - Clicking create from scratch menu option
+2025-08-22 12:35:11 INFO  LoginPage:129 - Enter table name and comment on new table dialog
+2025-08-22 12:35:11 INFO  LoginPage:133 - Clicking on create button on new table dialog
+2025-08-22 12:35:12 INFO  LoginPage:136 - wait for field dialog to come up
+2025-08-22 12:35:15 INFO  LoginPage:139 - add lables
+2025-08-22 12:35:16 INFO  LoginPage:144 - click on add fields button on add field dialog
+2025-08-22 12:35:18 INFO  LoginPage:38 - clicking on app Settings link from left pane
+2025-08-22 12:35:19 INFO  LoginPage:44 - Clicking on Tables page link on App settings page
+2025-08-22 12:49:08 INFO  LoginPage:55 - Clicking on SSO No Button
+2025-08-22 12:49:08 INFO  LoginPage:58 - Entering UserName
+2025-08-22 12:49:08 INFO  LoginPage:61 - Entering Password
+2025-08-22 12:49:08 INFO  LoginPage:64 - Clicking on login button
+2025-08-22 12:49:10 INFO  LoginPage:67 - Getting security code from Gmail
+2025-08-22 12:49:20 INFO  LoginPage:27 - Clicking on project:Simple Project Manager (Updesh Jain)
+2025-08-22 12:49:29 INFO  LoginPage:38 - clicking on app Settings link from left pane
+2025-08-22 12:49:31 INFO  LoginPage:35 - Clicking on Tables page link on App settings page
+2025-08-22 12:49:34 INFO  LoginPage:120 - Clicking on new table button
+2025-08-22 12:49:37 INFO  LoginPage:126 - Clicking create from scratch menu option
+2025-08-22 12:49:37 INFO  LoginPage:129 - Enter table name and comment on new table dialog
+2025-08-22 12:49:38 INFO  LoginPage:133 - Clicking on create button on new table dialog
+2025-08-22 12:49:38 INFO  LoginPage:136 - wait for field dialog to come up
+2025-08-22 12:49:41 INFO  LoginPage:139 - add lables
+2025-08-22 12:49:42 INFO  LoginPage:144 - click on add fields button on add field dialog
+2025-08-22 12:49:44 INFO  LoginPage:38 - clicking on app Settings link from left pane
+2025-08-22 12:49:45 INFO  LoginPage:35 - Clicking on Tables page link on App settings page
+2025-08-22 14:22:49 INFO  LoginPage:44 - Clicking on SSO No Button
+2025-08-22 14:22:50 INFO  LoginPage:47 - Entering UserName
+2025-08-22 14:22:50 INFO  LoginPage:50 - Entering Password
+2025-08-22 14:22:50 INFO  LoginPage:53 - Clicking on login button
+2025-08-22 14:22:51 INFO  LoginPage:56 - Getting security code from Gmail
+2025-08-22 14:23:01 INFO  LoginPage:27 - Clicking on project:Simple Project Manager (Updesh Jain)
+2025-08-22 14:23:56 INFO  LoginPage:44 - Clicking on SSO No Button
+2025-08-22 14:23:56 INFO  LoginPage:47 - Entering UserName
+2025-08-22 14:23:56 INFO  LoginPage:50 - Entering Password
+2025-08-22 14:23:56 INFO  LoginPage:53 - Clicking on login button
+2025-08-22 14:23:57 INFO  LoginPage:56 - Getting security code from Gmail
+2025-08-22 14:24:07 INFO  LoginPage:27 - Clicking on project:Simple Project Manager (Updesh Jain)
+2025-08-22 14:24:16 INFO  LoginPage:38 - clicking on app Settings link from left pane
+2025-08-22 14:24:19 INFO  LoginPage:35 - Clicking on Tables page link on App settings page
+2025-08-22 14:24:22 INFO  LoginPage:96 - Clicking on new table button
+2025-08-22 14:24:25 INFO  LoginPage:102 - Clicking create from scratch menu option
+2025-08-22 14:24:25 INFO  LoginPage:105 - Enter table name and comment on new table dialog
+2025-08-22 14:24:25 INFO  LoginPage:109 - Clicking on create button on new table dialog
+2025-08-22 14:24:26 INFO  LoginPage:112 - wait for field dialog to come up
+2025-08-22 14:24:29 INFO  LoginPage:115 - add lables
+2025-08-22 14:24:29 INFO  LoginPage:120 - click on add fields button on add field dialog
+2025-08-22 14:24:31 INFO  LoginPage:38 - clicking on app Settings link from left pane
+2025-08-22 14:24:33 INFO  LoginPage:35 - Clicking on Tables page link on App settings page
+2025-08-22 14:27:27 INFO  LoginPage:44 - Clicking on SSO No Button
+2025-08-22 14:27:27 INFO  LoginPage:47 - Entering UserName
+2025-08-22 14:27:27 INFO  LoginPage:50 - Entering Password
+2025-08-22 14:27:27 INFO  LoginPage:53 - Clicking on login button
+2025-08-22 14:27:28 INFO  LoginPage:56 - Getting security code from Gmail
+2025-08-22 14:27:38 INFO  LoginPage:27 - Clicking on project:Simple Project Manager (Updesh Jain)
+2025-08-22 14:28:20 INFO  LoginPage:44 - Clicking on SSO No Button
+2025-08-22 14:28:20 INFO  LoginPage:47 - Entering UserName
+2025-08-22 14:28:21 INFO  LoginPage:50 - Entering Password
+2025-08-22 14:28:21 INFO  LoginPage:53 - Clicking on login button
+2025-08-22 14:28:22 INFO  LoginPage:56 - Getting security code from Gmail
+2025-08-22 14:28:32 INFO  LoginPage:27 - Clicking on project:Simple Project Manager (Updesh Jain)
+2025-08-22 14:28:37 INFO  LoginPage:38 - clicking on app Settings link from left pane
+2025-08-22 14:28:40 INFO  LoginPage:35 - Clicking on Tables page link on App settings page
+2025-08-22 14:28:44 INFO  LoginPage:96 - Clicking on new table button
+2025-08-22 14:28:47 INFO  LoginPage:102 - Clicking create from scratch menu option
+2025-08-22 14:28:47 INFO  LoginPage:105 - Enter table name and comment on new table dialog
+2025-08-22 14:32:20 INFO  LoginPage:44 - Clicking on SSO No Button
+2025-08-22 14:32:20 INFO  LoginPage:47 - Entering UserName
+2025-08-22 14:32:20 INFO  LoginPage:50 - Entering Password
+2025-08-22 14:32:20 INFO  LoginPage:53 - Clicking on login button
+2025-08-22 14:32:21 INFO  LoginPage:56 - Getting security code from Gmail
+2025-08-22 14:32:31 INFO  LoginPage:27 - Clicking on project:Simple Project Manager (Updesh Jain)
+2025-08-22 14:33:38 INFO  LoginPage:44 - Clicking on SSO No Button
+2025-08-22 14:33:38 INFO  LoginPage:47 - Entering UserName
+2025-08-22 14:33:38 INFO  LoginPage:50 - Entering Password
+2025-08-22 14:33:38 INFO  LoginPage:53 - Clicking on login button
+2025-08-22 14:33:40 INFO  LoginPage:56 - Getting security code from Gmail
+2025-08-22 14:33:50 INFO  LoginPage:27 - Clicking on project:Simple Project Manager (Updesh Jain)
+2025-08-22 14:35:57 INFO  LoginPage:44 - Clicking on SSO No Button
+2025-08-22 14:35:58 INFO  LoginPage:47 - Entering UserName
+2025-08-22 14:35:58 INFO  LoginPage:50 - Entering Password
+2025-08-22 14:35:58 INFO  LoginPage:53 - Clicking on login button
+2025-08-22 14:36:00 INFO  LoginPage:56 - Getting security code from Gmail
+2025-08-22 14:36:10 INFO  LoginPage:27 - Clicking on project:Simple Project Manager (Updesh Jain)
+2025-08-22 14:37:30 INFO  LoginPage:44 - Clicking on SSO No Button
+2025-08-22 14:37:30 INFO  LoginPage:47 - Entering UserName
+2025-08-22 14:37:30 INFO  LoginPage:50 - Entering Password
+2025-08-22 14:37:30 INFO  LoginPage:53 - Clicking on login button
+2025-08-22 14:37:32 INFO  LoginPage:56 - Getting security code from Gmail
+2025-08-22 14:37:52 INFO  LoginPage:27 - Clicking on project:Simple Project Manager (Updesh Jain)
+2025-08-22 14:38:05 INFO  LoginPage:38 - clicking on app Settings link from left pane
+2025-08-22 14:38:17 INFO  LoginPage:35 - Clicking on Tables page link on App settings page
+2025-08-22 14:38:21 INFO  LoginPage:96 - Clicking on new table button
+2025-08-22 14:38:23 INFO  LoginPage:102 - Clicking create from scratch menu option
+2025-08-22 14:38:24 INFO  LoginPage:105 - Enter table name and comment on new table dialog
+2025-08-22 14:38:24 INFO  LoginPage:109 - Clicking on create button on new table dialog
+2025-08-22 14:38:24 INFO  LoginPage:112 - wait for field dialog to come up
+2025-08-22 14:38:28 INFO  LoginPage:115 - add lables
+2025-08-22 14:38:29 INFO  LoginPage:120 - click on add fields button on add field dialog
+2025-08-22 14:38:31 INFO  LoginPage:38 - clicking on app Settings link from left pane
+2025-08-22 14:38:32 INFO  LoginPage:35 - Clicking on Tables page link on App settings page
+2025-08-22 14:52:19 INFO  LoginPage:44 - Clicking on SSO No Button
+2025-08-22 14:52:19 INFO  LoginPage:47 - Entering UserName
+2025-08-22 14:52:19 INFO  LoginPage:50 - Entering Password
+2025-08-22 14:52:19 INFO  LoginPage:53 - Clicking on login button
+2025-08-22 14:52:20 INFO  LoginPage:56 - Getting security code from Gmail
+2025-08-22 14:52:40 INFO  LoginPage:27 - Clicking on project:Simple Project Manager (Updesh Jain)
+2025-08-22 14:52:42 INFO  LoginPage:38 - clicking on app Settings link from left pane
+2025-08-22 14:52:44 INFO  LoginPage:35 - Clicking on Tables page link on App settings page
+2025-08-22 14:52:47 INFO  LoginPage:96 - Clicking on new table button
+2025-08-22 14:52:49 INFO  LoginPage:102 - Clicking create from scratch menu option
+2025-08-22 14:52:50 INFO  LoginPage:105 - Enter table name and comment on new table dialog
+2025-08-22 14:52:50 INFO  LoginPage:109 - Clicking on create button on new table dialog
+2025-08-22 14:52:51 INFO  LoginPage:112 - wait for field dialog to come up
+2025-08-22 14:52:53 INFO  LoginPage:115 - add lables
+2025-08-22 14:52:54 INFO  LoginPage:120 - click on add fields button on add field dialog
+2025-08-22 14:52:56 INFO  LoginPage:38 - clicking on app Settings link from left pane
+2025-08-22 14:52:58 INFO  LoginPage:35 - Clicking on Tables page link on App settings page

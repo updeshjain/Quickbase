@@ -3,13 +3,14 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.applicationName.modulename.test.TablePageTest">
+      <class name="com.projectmanagement.TablePage.test.TablePageTest">
         <methods>
+          <include name="TablePage_E2E_Test"/>
+          <include name="Test"/>
           <include name="tearDown"/>
           <include name="setUp"/>
-          <include name="TablePage_E2E_Test"/>
         </methods>
-      </class> <!-- com.applicationName.modulename.test.TablePageTest -->
+      </class> <!-- com.projectmanagement.TablePage.test.TablePageTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
